@@ -1,0 +1,13 @@
+#-------------------------------------------------------------------------------
+# Name:        module1
+# Purpose:
+#
+# Author:      cjfalcon-argot
+#
+# Created:     28/08/2025
+# Copyright:   (c) cjfalcon-argot 2025
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
+print('Hello World')
+
