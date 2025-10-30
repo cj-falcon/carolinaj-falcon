@@ -16,12 +16,13 @@ screen.bgcolor("lightgreen")
 
 t = turtle.Turtle()
 t.pensize(4)
+t.pencolor(pink)
 t.speed(10)
 
 size = 20
 for i in range(5):
   for j in range(4):
-    t.forward(50 + i + 20)
+    t.forward(size)
     t.left(90)
   size += 20
   t.penup()
