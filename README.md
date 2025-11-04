@@ -4,9 +4,9 @@
 #
 # Author:      cjfalcon-argot
 #
-# Created:     11/04/2025
+# Created:     04/11/2025
 # Copyright:   (c) cjfalcon-argot 2025
 # Licence:     <your licence>
 #------------------------------------------------------------------------------
 
-For my python game I am wanting to create a number guessing game. 
+I will be doing a number guessing game for my final and have created the final folder. 
