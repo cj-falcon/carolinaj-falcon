@@ -9,4 +9,4 @@
 # Licence:     <your licence>
 #------------------------------------------------------------------------------
 
-I will be doing a number guessing game for my final and have created the final folder. 
+I will be doing a number guessing game for my final project and have created the final folder. 
