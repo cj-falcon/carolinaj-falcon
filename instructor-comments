@@ -1,0 +1,6 @@
+Here are my comments on your assignments
+
+11/18/25
+6.9 problem 7 - your function looks to be correct but you are mssing the test suite code to execute the block of tests. You program should not print "all tests passed." It shoul excute the block of tests and the test
+suite code will print OK or failed.
+
